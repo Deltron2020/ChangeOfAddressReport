@@ -22,14 +22,14 @@
   - <b>Step 4:</b> A scheduled job runs biweekly via SSMS that executes a pair of stored procedures. The first imports the data from the csv file into a table. The second processes the data in the table by looping through one record at a time finding any matching records in the CAMA database and producing a report with the results. The final report is then exported as a .xlsx file and saved to a network directory and an email notification is sent out stating the report for that month has been processed and is ready for review.
 
 <p align="center">
-<img src="https://i.imgur.com/v0lcnGF.png" height="75%" width="75%" alt="XY Process Flowchart"/>
+<img src="https://i.imgur.com/faFb5zY.png" height="75%" width="75%" alt="CoA Process Flowchart"/>
 </p>
 
 <h2>Screenshots</h2>
 *** For the sake of security, any email addresses, network paths, and anything deemed potentially sensitive will be removed from production code & screenshots *** .
 <br />
 
-<h3>Original Excel File with X/Y Coordinates</h3>
+<h3>Original Excel File from Clerk of Court</h3>
 <p align="center">
 <img src="https://i.imgur.com/zN8izXm.png" height="95%" width="95%" alt="XY Excel File"/>
 </p>
