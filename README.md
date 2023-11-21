@@ -58,8 +58,9 @@
 
 The following items are present in the python code involved:
 
-- Dynamic SQL
-- Try-Catch Error Handling
+- Pandas
+- Logging
+- Try-Except Error Handling
 - If / Else Logic
 
 The following items are present in the stored procedure involved:
