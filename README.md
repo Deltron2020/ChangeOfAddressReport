@@ -31,37 +31,39 @@
 
 <h3>Original Excel File from Clerk of Court</h3>
 <p align="center">
-<img src="https://i.imgur.com/zN8izXm.png" height="95%" width="95%" alt="XY Excel File"/>
+<img src="https://i.imgur.com/Loycsjm.png" height="95%" width="95%" alt="CoC CoA Excel File"/>
 </p>
 
 <h3>Data Imported from CSV into Table</h3>
 <p align="center">
-<img src="https://i.imgur.com/X0g4X4p.png" height="85%" width="85%" alt="XY Excel File"/>
-</p>
-
-<h3>SSMS Job</h3>
-<p align="center">
-<img src="https://i.imgur.com/Nw1ISAk.png" height="85%" width="85%" alt="XY Excel File"/>
+<img src="https://i.imgur.com/nwde5Hj.png" height="85%" width="85%" alt="Extracted Data in Table"/>
 </p>
 
 <h3>Final Excel Report</h3>
 <p align="center">
-<img src="https://i.imgur.com/zPx0t5i.png" height="85%" width="85%" alt="XY Excel File"/>
+<img src="https://i.imgur.com/cp8fxkt.png" height="85%" width="85%" alt="Final Excel Report"/>
 </p>
 
 <h3>Email Notification</h3>
 <p align="center">
-<img src="https://i.imgur.com/xm0u7dn.png" height="85%" width="85%" alt="XY Excel File"/>
+<img src="https://i.imgur.com/qfY9Qny.png" height="85%" width="85%" alt="Email Notification"/>
 </p>
 
 <h3>Report Statistics</h3>
 <p align="center">
-<img src="https://i.imgur.com/xm0u7dn.png" height="85%" width="85%" alt="XY Excel File"/>
+<img src="https://i.imgur.com/aYF2Zk2.png" height="85%" width="85%" alt="Report Stats"/>
 </p>
 
-<h2>The Good SQL Stuff</h2>
+<h2>The Good Stuff</h2>
 
-The following items are present in the stored procedure [sp_ImportXYCoordinates](https://github.com/Deltron2020/XYCoordinateImport/blob/main/sp_ImportXYCoordinates.sql):
+The following items are present in the python code involved:
+
+- Dynamic SQL
+- Try-Catch Error Handling
+- If / Else Logic
+
+The following items are present in the stored procedure involved:
+
 - Dynamic SQL
 - Try-Catch Error Handling
 - If / Else Logic
