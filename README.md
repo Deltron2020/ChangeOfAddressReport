@@ -34,7 +34,7 @@
 <img src="https://i.imgur.com/zN8izXm.png" height="95%" width="95%" alt="XY Excel File"/>
 </p>
 
-<h3>Windows Task</h3>
+<h3>Data Imported from CSV into Table</h3>
 <p align="center">
 <img src="https://i.imgur.com/X0g4X4p.png" height="85%" width="85%" alt="XY Excel File"/>
 </p>
@@ -44,7 +44,7 @@
 <img src="https://i.imgur.com/Nw1ISAk.png" height="85%" width="85%" alt="XY Excel File"/>
 </p>
 
-<h3>CSV to CAMA</h3>
+<h3>Final Excel Report</h3>
 <p align="center">
 <img src="https://i.imgur.com/zPx0t5i.png" height="85%" width="85%" alt="XY Excel File"/>
 </p>
@@ -54,6 +54,10 @@
 <img src="https://i.imgur.com/xm0u7dn.png" height="85%" width="85%" alt="XY Excel File"/>
 </p>
 
+<h3>Report Statistics</h3>
+<p align="center">
+<img src="https://i.imgur.com/xm0u7dn.png" height="85%" width="85%" alt="XY Excel File"/>
+</p>
 
 <h2>The Good SQL Stuff</h2>
 
@@ -63,7 +67,7 @@ The following items are present in the stored procedure [sp_ImportXYCoordinates]
 - If / Else Logic
 - Update / Insert
 - #Temp Tables
-- Commit / Rollback Transactions
+- Pivot
 - Data Validation
 - Send DB Mail
 
