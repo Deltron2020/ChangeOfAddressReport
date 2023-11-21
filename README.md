@@ -63,21 +63,25 @@ The following items are present in the python code involved:
 - Try-Except Error Handling
 - If / Else Logic
 
-The following items are present in the stored procedure involved:
+The following items are present in the SQL stored procedure involved:
 
 - Dynamic SQL
+- While Loop
 - Try-Catch Error Handling
 - If / Else Logic
 - Update / Insert
+- Case Statements
 - #Temp Tables
+- Window Functions
 - Pivot
-- Data Validation
-- Send DB Mail
+- Pat Index
+- Table Variable
 
 Links to SQL scripts involved in this process:
 - [Exception Handling Table & Stored Procedure](https://github.com/Deltron2020/ExceptionHandling)
 - [Does File Exist Function](https://github.com/Deltron2020/doesFileExist)
-- [CSV to Excel File wTable]
+- [Export Data to CSV](https://github.com/Deltron2020/ExportDataToCsv)
+- [CSV to Excel File wTable](https://github.com/Deltron2020/CSVtoXLSXwTable)
 
 <!--
  ```diff
