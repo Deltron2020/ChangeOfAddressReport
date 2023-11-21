@@ -10,7 +10,7 @@
 
 <h2>Description</h2>
 
-<b> Problem: </b> A Change of Address Report is recieved from the Clerk of Court every month listing people who have updated their mailing addresses. Every record on the report is manually searched within the CAMA application one at a time to see if the person listed owns property or if the address listed has any exemptions within the CAMA database. This search process is tedious and time consuming.
+<b> Problem: </b> A Change of Address Report is recieved from the Clerk of Court every month listing jurors who have updated their mailing addresses. Every record on the report is manually searched within the CAMA application one at a time to see if the person listed owns property or if the address listed has any exemptions within the CAMA database. This search process is tedious and time consuming.
 <br><br>
  <b> Solution: </b> Automate the search process by comparing the data on the original report to data within the CAMA database and produce any matching results in a new report.
  <br><br>
