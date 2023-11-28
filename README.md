@@ -1,4 +1,4 @@
-<h1>Creating a Change Of Address Report by Identify Matching Ownership Records within CAMA Database</h1>
+<h1>Creating a Change Of Address Report by accurately identifying matching ownership records within the CAMA database</h1>
 
 <h2>Tools Used</h2>
 
